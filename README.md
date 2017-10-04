@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ```
 <div class="slider1">
-	<div class="container slider1-container" data-slider="" data-slider-timeout="5000">
-		<div class="slider1-items" data-slider-items="">
+	<div class="container slider1-container" data-slider data-slider-timeout="5000">
+		<div class="slider1-items" data-slider-items>
 			<div class="slider1-item active" style="background-image:url('image1.jpg')"></div>
 			<div class="slider1-item" style="background-image:url('image2.jpg')"></div>
 			<div class="slider1-item" style="background-image:url('image3.jpg')"></div>
